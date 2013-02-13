@@ -1,0 +1,1 @@
+This is [doT](https://github.com/olado/doT) with async templating.
